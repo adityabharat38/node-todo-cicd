@@ -1,5 +1,4 @@
-version: '2.24.5'
-
+version: '3.9'
 services:
   web:
     image: "aditya807/node-app-test-new:latest"
